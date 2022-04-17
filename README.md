@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @tarnasi-fibo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tarnasi-fibo/tarnasi-fibo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Sport, Coding(Python), Book, Travel, mountaning
+- 🌱 I’m currently learning Python System Design
+- 💞️ I’m looking to collaborate on Open SOurce Project and challenging project.
+- 📫 How to reach me? You can reach me by email tarnasi.fibodex@gmail.com
